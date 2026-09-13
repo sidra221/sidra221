@@ -49,8 +49,6 @@
 | 📚 **Learnix** | Educational AI app that turns books into interactive quizzes — Python · LLM Integration · Document Processing |
 | 🤖 **[SmartTelecomRAG](https://github.com/sidra221/SmartTelecomRAG)** | RAG chatbot for telecom support, grounded in internal docs — LlamaIndex · Qdrant · Gradio |
 | 🏥 **[Hospital Management System](https://github.com/sidra221/hospital)** | Patient records, appointments and staff with role-based access — Django · React · PostgreSQL |
-| 💼 **[Portfolio](https://github.com/sidra221/portfolio-)** | Bilingual AR/EN portfolio with light & dark themes — React · TypeScript · MUI |
-| 📱 **[MicroLearn](https://www.behance.net/gallery/239987397/Microlearn)** | Microlearning app concept — user flows, wireframes and hi-fi prototypes in Figma |
 
 ---
 
